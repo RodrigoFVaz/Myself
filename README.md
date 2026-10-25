@@ -7,41 +7,41 @@
 
 ---
 
-### 🛡️ About Me
+### 💫 About Me
 
 ---
 
-- 🔍 I have a solid foundation in **Computer Networking** and I am currently focused on **Ethical Hacking** and **Programming**.
-- 🎓 Studying **Cybersecurity** at ISTEC (Higher Professional Technical Course).
-- 🚀 Currently deepening my studies in:
-  - 🐍 **Python** for automation and security tools
-  - 🤖 **AI applied to programming**
-  - 🕵️‍♂️ **Ethical Hacking / Pentesting**
-
+- 🎓 Student of Cybersecurity @ ISTEC
+- 🐍 Learning Ethical Hacking, Python & C
+- 🤖 Exploring AI applied to programming
+- 🔍 Passion for ethical hacking, programming & continuous learning
 ---
 
 ### 🛠️ Languages & Tools
 
+---
+
 <p align="left">
-  <!-- Operating Systems -->
+  ### 🖥️ Operating Systems
   <img src="https://img.shields.io/badge/Kali_Linux-557C99?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <br/>
   
-  <!-- Languages -->
+  ### 🔰 Programming Languages
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly" />
   <br/>
   
-  <!-- Database & Others -->
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+### 🛠️ Tools
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Autopsy-333333?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy" />
+  <img src="https://img.shields.io/badge/VMware-607D8B?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/FTK_Imager-003366?style=for-the-badge&logo=forensics&logoColor=white" alt="FTK Imager" />
 </p>
 
-> ℹ️ *I have a basic level of C, theoretical notions of Assembly, and good code comprehension in Java.*
+> ℹ️ *I have a basic level of C*
 
 ---
 
