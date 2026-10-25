@@ -22,13 +22,13 @@
 ---
 
 <p align="left">
-  ### 🖥️ Operating Systems
+### 🖥️ Operating Systems
   <img src="https://img.shields.io/badge/Kali_Linux-557C99?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <br/>
   
-  ### 🔰 Programming Languages
+### 🔰 Programming Languages
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <br/>
