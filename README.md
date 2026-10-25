@@ -9,6 +9,8 @@
 
 ### 🛡️ About Me
 
+---
+
 - 🔍 I have a solid foundation in **Computer Networking** and I am currently focused on **Ethical Hacking** and **Programming**.
 - 🎓 Studying **Cybersecurity** at ISTEC (Higher Professional Technical Course).
 - 🚀 Currently deepening my studies in:
